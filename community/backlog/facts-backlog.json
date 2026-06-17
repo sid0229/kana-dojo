@@ -242,7 +242,7 @@
   {
     "id": 41,
     "fact": "The Japanese word 'yūgen' (幽玄) describes a profound awareness of the universe that triggers emotional responses too deep for words.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1064,7 +1064,7 @@
   {
     "id": 178,
     "fact": "Japan has vending machines that dispense hot canned coffee - a major morning ritual for millions of workers.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1250,7 +1250,7 @@
   {
     "id": 209,
     "fact": "The Japanese phrase 'ittekimasu' (行ってきます) is said when leaving home, meaning 'I'll go and come back'.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

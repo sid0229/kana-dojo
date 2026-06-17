@@ -80,7 +80,7 @@
   {
     "id": 14,
     "text": "\"〜なくてもいい\" means \"don't have to\" and lifts an obligation.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -122,7 +122,7 @@
   {
     "id": 21,
     "text": "\"〜ば\" forms a conditional meaning \"if\" in a general sense.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -249,7 +249,7 @@
     "id": 42,
     "text": "\"〜ことがある\" means \"sometimes\" when talking about habitual actions.",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 43,
@@ -782,7 +782,7 @@
   {
     "id": 131,
     "text": "\"〜にする\" means \"decide on\" a choice or selection. (practice variation 46)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

@@ -948,7 +948,7 @@
     "backgroundColor": "oklch(18.0% 0.040 15.0 / 1)",
     "mainColor": "oklch(58.0% 0.210 25.0 / 1)",
     "secondaryColor": "oklch(88.0% 0.055 90.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false,
     "completedBy": "MatthewFTom",
     "completedPR": 20951
@@ -1812,8 +1812,10 @@
     "backgroundColor": "oklch(20.0% 0.030 150.0 / 1)",
     "mainColor": "oklch(66.0% 0.115 135.0 / 1)",
     "secondaryColor": "oklch(55.0% 0.070 155.0 / 1)",
-    "issued": true,
-    "completed": false
+    "issued": false,
+    "completed": false,
+    "completedBy": "Raisaa-C",
+    "completedPR": 21017
   },
   {
     "id": "sakura-soda",
@@ -1842,7 +1844,7 @@
     "backgroundColor": "oklch(22.0% 0.020 55.0 / 1)",
     "mainColor": "oklch(68.0% 0.085 65.0 / 1)",
     "secondaryColor": "oklch(58.0% 0.060 45.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1852,7 +1854,7 @@
     "backgroundColor": "oklch(92.0% 0.025 95.0 / 1)",
     "mainColor": "oklch(70.0% 0.145 85.0 / 1)",
     "secondaryColor": "oklch(62.0% 0.090 70.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

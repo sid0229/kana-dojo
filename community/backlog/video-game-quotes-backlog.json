@@ -296,7 +296,7 @@
     "game": "Dragon Quest XI",
     "character": "Hero / party lines",
     "id": 30,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -316,7 +316,7 @@
     "game": "Pokemon series",
     "character": "Rival characters",
     "id": 32,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -496,7 +496,7 @@
     "game": "Dragon Quest XI",
     "character": "Hero / party lines",
     "id": 50,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
