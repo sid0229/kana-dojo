@@ -656,5 +656,47 @@
   "english": "As long as I have something to protect, I won't lose.",
   "anime": "Bleach",
   "character": "Ichigo Kurosaki"
+},
+  {
+  "japanese": "真実を語ることが残酷であるならば、嘘をつくことは間違いなく優しさの行為に違いない。つまり、優しさとは嘘なのだ。",
+  "romaji": "Shinjitsu o kataru koto ga zankokudearunaraba, usowotsuku koto wa machigainaku yasashi-sa no kōi ni chigainai. Tsumari, yasashi Sato wa usona noda.",
+  "english": "If to be truthful is to be cruel, then lying must surely be an act of kindness. And so, kindness is a lie.",
+  "anime": "My Teen Romantic Comedy SNAFU",
+  "character": "Hikigaya Hachiman"
+},
+  {
+  "japanese": "僕は新世界の神となる",
+  "romaji": "Boku wa shin sekai no kami to naru",
+  "english": "I will become the god of the new world. (alt wording 44)",
+  "anime": "Death Note",
+  "character": "Light Yagami"
+},
+ {
+  "japanese": "撃っていいのは撃たれる覚悟がある奴だけだ",
+  "romaji": "Utte ii no wa uterareru kakugo ga aru yatsu dake da",
+  "english": "Only those prepared to be shot should pull the trigger. (alt wording 45)",
+  "anime": "Code Geass: Lelouch of the Rebellion",
+  "character": "Lelouch vi Britannia"
+},
+  {
+  "japanese": "おれは人間を超越する！",
+  "romaji": "Ore wa ningen o chouetsu suru!",
+  "english": "I will transcend humanity!",
+  "anime": "JoJo's Bizarre Adventure: Battle Tendency",
+  "character": "Kars"
+},
+{
+   "japanese": "グララララ",
+   "romaji": "Gurararara",
+   "english": "Gurararara!",
+   "anime": "One Piece",
+   "character": "Edward Newgate (Whitebeard)"
+},
+{
+  "japanese": "あきらめたらそこで試合終了ですよ…？",
+  "romaji": "Akirametara soko de shiai shuuryou desu yo...?",
+  "english": "If you give up, that's the end of the game.",
+  "anime": "Slam Dunk",
+  "character": "Kaede Rukawa"
 }
 ]

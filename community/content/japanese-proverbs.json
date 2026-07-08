@@ -534,39 +534,87 @@
     "meaning": "Two heads are better than one"
   },
   {
-  "japanese": "虎穴に入らずんば虎子を得ず",
-  "romaji": "Koketsu ni irazunba koji wo ezu",
-  "english": "If you don't enter the tiger's den, you can't get the cub",
-  "meaning": "Nothing ventured, nothing gained"
-},
+    "japanese": "虎穴に入らずんば虎子を得ず",
+    "romaji": "Koketsu ni irazunba koji wo ezu",
+    "english": "If you don't enter the tiger's den, you can't get the cub",
+    "meaning": "Nothing ventured, nothing gained"
+  },
+  {
+    "japanese": "口は災いの元",
+    "romaji": "Kuchi wa wazawai no moto",
+    "english": "The mouth is the source of disaster",
+    "meaning": "Careless speech can cause trouble"
+  },
+  {
+    "japanese": "七転び八起き",
+    "romaji": "Nanakorobi yaoki",
+    "english": "Fall seven times, get up eight",
+    "meaning": "Never give up"
+  },
+  {
+    "japanese": "泣きっ面に蜂",
+    "romaji": "Naki tsura ni hachi",
+    "english": "A bee on a crying face",
+    "meaning": "Misfortune piles up"
+  },
+  {
+    "japanese": "三人寄れば文殊の知恵",
+    "romaji": "Sannin yoreba monju no chie",
+    "english": "Three people together have the wisdom of Monju",
+    "meaning": "Two heads are better than one"
+  },
+  {
+    "japanese": "為せば成る",
+    "romaji": "Naseba naru",
+    "english": "If you try, you can achieve it",
+    "meaning": "Anything is possible if you believe in yourself and take action"
+  },
+  {
+    "japanese": "十人十色",
+    "romaji": "Junin toiro",
+    "english": "Ten people, ten colors",
+    "meaning": "To each their own; different people have different tastes"
+  },
+  {
+    "japanese": "虎穴に入らずんば虎子を得ず",
+    "romaji": "Koketsu ni irazunba koji wo ezu",
+    "english": "You can’t get the tiger’s cub without entering the lair",
+    "meaning": "No reward without risk"
+  },
+  {
+    "japanese": "灯台下暗し",
+    "romaji": "Toudai moto kurashi",
+    "english": "It’s darkest under the lighthouse",
+    "meaning": "The obvious is overlooked"
+  },
+  {
+    "japanese": "百聞は一見に如かず",
+    "romaji": "Hyakubun wa ikken ni shikazu",
+    "english": "Hearing a hundred times is not as good as seeing once",
+    "meaning": "Seeing is believing"
+  },
+  {
+    "japanese": "自ら墓穴を掘る",
+    "romaji": "Mizukara boketsu o horu",
+    "english": "To put your foot in your mouth",
+    "meaning": "To dig your own grave"
+  },
+  {
+    "japanese": "温故知新 ",
+    "romaji": "Onko chishin",
+    "english": "Exploring the old and deducing the new",
+    "meaning": "Learning new things by studying the old"
+  },
+  {
+    "japanese": "転ばぬ先の杖",
+    "romaji": "Korobanu saki no tsue",
+    "english": "A cane before falling",
+    "meaning": "Prevention is better than cure"
+  },
   {
   "japanese": "口は災いの元",
   "romaji": "Kuchi wa wazawai no moto",
   "english": "The mouth is the source of disaster",
-  "meaning": "Careless speech can cause trouble"
-},
-  {
-  "japanese": "七転び八起き",
-  "romaji": "Nanakorobi yaoki",
-  "english": "Fall seven times, get up eight",
-  "meaning": "Never give up"
-},
-{
-  "japanese": "泣きっ面に蜂",
-  "romaji": "Naki tsura ni hachi",
-  "english": "A bee on a crying face",
-  "meaning": "Misfortune piles up"
-},
-{
-  "japanese": "三人寄れば文殊の知恵",
-  "romaji": "Sannin yoreba monju no chie",
-  "english": "Three people together have the wisdom of Monju",
-  "meaning": "Two heads are better than one"
-},
-{
-  "japanese": "為せば成る",
-  "romaji": "Naseba naru",
-  "english": "If you try, you can achieve it",
-  "meaning": "Anything is possible if you believe in yourself and take action"
-}
+  "meaning": "Careless words cause trouble"
+  }
 ]
