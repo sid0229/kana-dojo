@@ -1216,8 +1216,10 @@
     "backgroundColor": "oklch(95.0% 0.015 15.0 / 1)",
     "mainColor": "oklch(62.0% 0.175 350.0 / 1)",
     "secondaryColor": "oklch(75.0% 0.085 85.0 / 1)",
-    "issued": true,
-    "completed": false
+    "issued": false,
+    "completed": false,
+    "completedBy": "dchaudhari7177",
+    "completedPR": 24271
   },
   {
     "id": "mountain-cedar",
@@ -1317,7 +1319,9 @@
     "mainColor": "oklch(72.0% 0.195 35.0 / 1)",
     "secondaryColor": "oklch(85.0% 0.095 275.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": false,
+    "completedBy": "Peeyush3587",
+    "completedPR": 24279
   },
   {
     "id": "spring-bamboo",
@@ -1656,7 +1660,7 @@
     "backgroundColor": "oklch(92.0% 0.028 345.0 / 1)",
     "mainColor": "oklch(70.0% 0.165 350.0 / 1)",
     "secondaryColor": "oklch(78.0% 0.110 25.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
